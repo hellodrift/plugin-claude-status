@@ -1,6 +1,6 @@
 # Claude Status — Vienna Plugin
 
-![Claude Status screenshot](claude-status.png)
+<img src="claude-status.png" alt="Claude Status screenshot" width="500">
 
 A [Vienna](https://tryvienna.dev) plugin that shows Claude's API status directly in your menu bar. Click the indicator to see a full breakdown of service components and any active incidents, all pulled live from [status.anthropic.com](https://status.anthropic.com).
 
