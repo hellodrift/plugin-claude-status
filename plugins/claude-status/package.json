@@ -1,7 +1,7 @@
 {
   "name": "plugin-claude-status",
   "version": "0.0.1",
-  "private": true,
+  "vienna-plugin": true,
   "description": "Claude API status in your menu bar",
   "type": "module",
   "exports": {
